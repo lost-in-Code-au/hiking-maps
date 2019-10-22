@@ -8,6 +8,23 @@ body {
 }
 
 code {
+  color: orangered;
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.landing-page {
+  background: orangered;
+}
+
+.start-page {
+  background-color: aquamarine;
+}
+
+.map-page {
+  background-color: brown;
+}
+
+.details-view {
+  background-color: tan;
 }
